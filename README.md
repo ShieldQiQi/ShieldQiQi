@@ -5,10 +5,11 @@
 - ⚡ Fun fact: ```I need a girlfriend, I never had one```
 - ⚡ I did Robotics, Electronics, Mechatronics, and some Software developement in my past last years
 - ⚡ but my work is about Linux, life is just magic
+
 <p align="center">
-<img height="200em" src="https://files-cdn.cnblogs.com/files/QiQi-Robotics/KON.bmp" align = "left"/>
+<img height="200em" src="https://files-cdn.cnblogs.com/files/QiQi-Robotics/KON.bmp">
 </p>
-<br>
+
 <p align="center">
 <img height="220em" src="https://github-readme-stats.vercel.app/api?username=ShieldQiQi&show_icons=true&include_all_commits=true" align = "left"/>
 <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShieldQiQi&show_icons=true&include_all_commits=true" align = "right"/>
