@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently doing research in State Key Laboratory of Robotics and System, HIT, work on robotic-prosthetic-finger
 - 🤔 I'm going to work at 2012 Laboratory, Huawei(shenzhen) in 2022, work on linux sdk developement
-- ⚡ Fun fact: ```I need a girlfriend, I never had one```
+- ⚡ Fun fact: ```I need a girlfriend```
 - ⚡ I did Robotics, Electronics, Mechatronics, and some Software developement in my past last years
 - ⚡ but my work is about Linux, life is just magic
 
