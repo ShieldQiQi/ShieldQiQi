@@ -7,7 +7,7 @@
 - ⚡ but my work is about Linux, life is just magic
 
 <p align="center">
-<img height="200em" src="https://files-cdn.cnblogs.com/files/QiQi-Robotics/KON.bmp">
+<img height="200em" src="https://files-cdn.cnblogs.com/files/QiQi-Robotics/KON.gif">
 </p>
 
 <p align="center">
