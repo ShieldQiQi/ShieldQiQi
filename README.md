@@ -7,7 +7,7 @@
 - ⚡ but my work is about Linux, life is just magic
 
 <p align="center">
-<img height="210em" src="https://github.com/ShieldQiQi/Path-Planning-Showed-By-Animation/blob/main/image/KON.gif" align = "center"/>
+<img height="200em" src="https://github.com/ShieldQiQi/Path-Planning-Showed-By-Animation/blob/main/image/KON.gif" align = "center"/>
 </p>
 
 <p align="center">
