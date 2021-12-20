@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ShieldQiQi/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ShieldQiQi.ShieldQiQi)](https://github.com/ShieldQiQi/)
+[![GitHub](https://img.shields.io/github/followers/ShieldQiQi.svg?lable=GitHub&style=social)](https://github.com/ShieldQiQi/)
 
 - 🔭 I’m currently doing research in State Key Laboratory of Robotics and System, HIT, work on robotic-prosthetic-finger
 - 🤔 I'm going to work at 2012 Laboratory, Huawei(shenzhen) in 2022, work on linux sdk developement
