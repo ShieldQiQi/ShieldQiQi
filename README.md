@@ -6,7 +6,6 @@
 - 🤔 I'm going to work at 2012 Laboratory, Huawei(shenzhen) in 2022, work on linux sdk developement
 - ⚡ Fun fact: ```* **** * **********```
 - ⚡ I did Robotics, Electronics, Mechatronics, and some Software developement in my past last years
-- ⚡ but my work is about Linux, life is just magic
 
 <p align="center">
 <img height="200em" width="1100em" src="https://github.com/ShieldQiQi/Path-Planning-Showed-By-Animation/blob/main/image/KON.gif" align = "center"/>
